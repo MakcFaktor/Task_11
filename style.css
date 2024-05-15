@@ -11,3 +11,15 @@ td {
   border: 1px solid #000;
   padding: 3px;
 }
+
+button {
+  margin: 20px auto;
+}
+
+#imageContainer {
+  margin-top: 20px;
+}
+#randomImage {
+  max-width: 100%;
+  max-height: 400px;
+}
