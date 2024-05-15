@@ -1,3 +1,7 @@
+body {
+  text-align: center;
+}
+
 table {
   border-collapse: collapse;
   margin: 20px auto;
@@ -6,5 +10,4 @@ table {
 td {
   border: 1px solid #000;
   padding: 3px;
-  text-align: center;
 }
